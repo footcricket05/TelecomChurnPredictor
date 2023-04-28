@@ -39,6 +39,9 @@ To run the project, you can download the Jupyter Notebook and the dataset file a
 The project successfully demonstrates the use of logistic regression for predicting customer churn in the telecom industry. By leveraging different layers of customer data, providers can gain a better understanding of customer needs and preferences, and take necessary actions to reduce churn and increase customer retention.
 
 
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
+
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
